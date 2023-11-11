@@ -25,6 +25,7 @@ projects:
 social:
 - {icon: 'github',    link: 'https://github.com/eetuleppala'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/eetuleppala'}
+- {icon: 'envelope',  link: 'mailto:eetuleppala@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
