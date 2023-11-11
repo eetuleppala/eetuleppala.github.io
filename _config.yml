@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Eetu Leppälä - Portfolio"
+title:		   "Eetu Leppälä"
 description: "Game and UX/UI Designer"
-author:      "PEetu Leppälä"
+author:      "Eetu Leppälä"
