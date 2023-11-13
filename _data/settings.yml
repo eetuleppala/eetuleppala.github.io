@@ -2,9 +2,9 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+# - {name: 'Projects', url: ''}
 - {name: 'Notes',     url: 'notes'}
-- {name: 'Me',    url: 'me'}
+- {name: 'About Me',    url: 'me'}
 
 #-------------------------------
 # Projects Section

@@ -3,6 +3,11 @@ layout: post
 title: 'Moving Manor'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+## Summary
 
-{% include image.html url="http://www.gratisography.com" image="projects/MovingManor/stretch.jpg" %}
+Moving Manor is a rogue-lite deckbuilding puzzler, where the player controls an adventurer who is trying to find their way out of the moving maze-like corridors of an archmage’s floating abode hidden within the Astral Sea. The player progresses through the game by successfully navigating their way through rooms filled with monsters and treasure by utilising a deck of cards through which they can manipulate the very environment around them. Various denizens of the majestic halls, mostly former adventurers, who have now given up the hopes of escaping, are willing to improve your chances of escaping by upgrading your cards in exhange for treasure.
+
+## Goal
+
+- Player must successfully navigate through the various ever-changing floors and find the final exit out of the mage’s castle.
+
