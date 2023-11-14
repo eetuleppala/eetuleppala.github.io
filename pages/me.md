@@ -4,7 +4,8 @@ title: Me
 permalink: /me
 ---
 
-# About me
+I'm Eetu, a Helsinki-based game and UI/UX designer. In these pages you can find some of my work as well as occasional notes on play, game design and other such topics. If you would like to collaborate with me or even hire me, please contact me at [eetuleppala@gmail.com](mailto:eetuleppala@gmail.com).
 
-I'm Eetu, a Helsinki-based game and UI/UX designer. This is my portfolio and place to put my occasional scribbles about topics surrounding play, game dynamics and other such things. If you like what you've seen and would like to collaborate with me or even hire me, please contact me at [eetuleppala@gmail.com](mailto:eetuleppala@gmail.com).
+<div class="blocklink"><a href=""> DOWNLOAD CV →</a></div>
+
 ![Alt text](../assets/img/headshot.png)
