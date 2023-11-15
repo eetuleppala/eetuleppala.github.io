@@ -11,19 +11,19 @@ Book of Ashes is a singleplayer tactical RPG / roguelike, where you and you part
 <a href="https://drive.google.com/file/d/1pNbVPoUSmdgoKceq_aCguCl8c_r7vAZ0/view?usp=drive_link" target="_blank">Download demo for Windows or Mac →</a></div>
 
 ## Contributions
-This is an ongoing solo project, 
+During the 9 months I've been developing this game as a solo-project I have at least:
 
-- Formulating and maintaining design vision to steer design and development decisions
-- Balancing in accordance with the wanted experience
-- Playtesting sessions throughout development
-- Developing a modular system and tooling for producing agents, abilities and conditions fast and reliably
-- Developing a level editor and modular tiletypes to product emergent behaviour
+- Formulated and maintained design vision to steer design and development decisions
+- Balanced gameplay elements in accordance with the wanted experience
+- Orchestrated playtesting sessions throughout development
+- Developed a modular system and tooling for producing agents, abilities and conditions fast and reliably
+- Developed a level editor and modular tiletypes to produce emergent behaviour
 - Designed systems to present relevant information only when needed
-- And everything else.
+- And much more.
 
 ## Design Highlights
 
-[Img of heroes and their description and abilities]
+![Heroes and Abilities](../assets/img/projects/BookOfAshes/HeroesAndAbilities.png)
 <div class="small"> ↑ Some of the heroes in the game. I wanted the heroes and their abilities to produce a feeling of surviving against overwhelming odds by using unorthodox methods. </div>
 
 [Imgs of levels in level editor, with tags, overlay with room sketch as well as indicate formations and booster/room flow]
@@ -32,7 +32,7 @@ This is an ongoing solo project,
 [Img of tiletypes and effects]
 <div class="small"> ↑ Different tiletypes. Manouvering and altering the battlefield is a crucial aspect in the game. These also effect pathfinding for all agents to for example avoid hazards and difficult terrain unless absolutely necessary. I also added rules for enemies to not stand next to walls or on the edge of the map in order to give the player more opportunities to strike. </div>
 
-[Img of enemies. Tiers of enemies and their abilities and how they are more severe than the previous.]
+![Enemy Tiers](../assets/img/projects/BookOfAshes/EnemyTiers.png)
 <div class="small"> ↑ Some of the enemies in the game. I wanted each enemy to provide a specific type of challenge. For this battle demo I wanted to highlight the theme of fire in the story and mirror it in the game mechanics. Each enemy group has a progression of difficulties in the enemy units. </div>
 
 ## Further reading
