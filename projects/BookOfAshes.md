@@ -2,10 +2,38 @@
 layout: post
 title: 'Book of Ashes'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
 
-{% include image.html url="http://www.gratisography.com" image="projects/BookOfAshes/dog.jpg" text="See More" %}
+Book of Ashes is a singleplayer tactical RPG / roguelike, where you and you party attempt to slay the long reining phoenix emperor Zeal and their avian minions and bring prosperity back into the region.
 
-{% include image.html url="http://www.gratisography.com" image="projects/BookOfAshes/wall.jpg" %}
+[Trailer]
 
-![Image](/assets/img/projects/BookOfAshes/wall.jpg)
+<div class="blocklink">
+<a href="https://drive.google.com/file/d/1pNbVPoUSmdgoKceq_aCguCl8c_r7vAZ0/view?usp=drive_link">Download demo for Windows or Mac →</a></div>
+
+## Contributions
+This is an ongoing solo project, 
+
+- Formulating and maintaining design vision to steer design and development decisions
+- Balancing in accordance with the wanted experience
+- Playtesting sessions throughout development
+- Developing a modular system and tooling for producing agents, abilities and conditions fast and reliably
+- Developing a level editor and modular tiletypes to product emergent behaviour
+- Designed systems to present relevant information only when needed
+- And everything else.
+
+## Design Highlights
+
+[Img of heroes and their description and abilities]
+<div class="small"> ↑ Some of the heroes in the game. I wanted the heroes and their abilities to produce a feeling of surviving against overwhelming odds by using unorthodox methods. </div>
+
+[Imgs of levels in level editor, with tags, overlay with room sketch as well as indicate formations and booster/room flow]
+<div class="small"> ↑ Levels and spawnpoints. I wanted the levels to encourage the players to move around the space with their small unit of guerilla fighters, while the enemies were positioned in more traditional military formations (vanguard etc.). The levels are generally divided into rooms, at least conceptually. Each room has boosters to encourage moving into them and executing awesome turns.</div>
+
+[Img of enemies. Tiers of enemies and their abilities and how they are more severe than the previous.]
+<div class="small"> ↑ Some of the enemies in the game. I wanted each enemy to provide a specific type of challenge. For this battle demo I wanted to highlight the theme of fire in the story and mirror it in the game mechanics. Each enemy group has a progression of difficulties in the enemy units. </div>
+
+## Further reading
+- [Design Pillars of Book of Ashes](/BOA-design-pillars)
+- [Content authoring in Book of Ashes](/BOA-tooling)
+- [Contextual UI in Book of Ashes](/BOA-UI)
+- [Early Concept work in Book of Ashes](/BOA-early-concepts)
