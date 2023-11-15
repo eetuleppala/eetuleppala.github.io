@@ -5,7 +5,7 @@ title: 'Book of Ashes'
 
 Book of Ashes is a singleplayer tactical RPG / roguelike, where you and you party attempt to slay the long reining phoenix emperor Zeal and their avian minions and bring prosperity back into the region.
 
-<video src="/assets/video/BookOfAshes_trailer.mp4" autoplay loop muted></video>
+<video src="/assets/video/BookOfAshes_trailer.mp4" autoplay loop muted playsinline></video>
 
 <div class="blocklink">
 <a href="https://drive.google.com/file/d/1pNbVPoUSmdgoKceq_aCguCl8c_r7vAZ0/view?usp=drive_link" target="_blank">Download demo for Windows or Mac →</a></div>
