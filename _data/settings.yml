@@ -14,9 +14,9 @@ projects:
 - {name: 'Discordant',  description: 'Rhythm-based Bullet Hell', url: 'Discordant'}
 # - {name: 'Arcana',   url: 'Arcana'}
 # - {name: 'Playing with Systems', description: 'Graduate Thesis', url: 'Systems'}
-- {name: 'Crisis',  description: 'Boardgame', url: 'Crisis'}
-- {name: 'Waste Land',  description: 'Boardgame', url: 'Wasteland'}
-- {name: 'Split', description: 'Game Jam Game', url: 'Split'}
+- {name: 'Crisis',  description: 'Educational Negotiation Boardgame', url: 'Crisis'}
+- {name: 'Waste Land',  description: 'Educational Energy Politics Boardgame', url: 'Wasteland'}
+- {name: 'Split', description: 'Cooperative Puzzle Platformer Jam Game', url: 'Split'}
 
 #-------------------------------
 # Contact Section
