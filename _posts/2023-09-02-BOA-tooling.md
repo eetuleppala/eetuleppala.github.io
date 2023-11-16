@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Book of Ashes - Tooling"
+title: "Content Authoring for Book of Ashes"
 ---

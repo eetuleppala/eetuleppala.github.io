@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Book of Ashes - Design Pillars"
+title: "Design Pillars of Book of Ashes"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Discordant – Post Mortem"
+title: "Discordant Post Mortem"
 ---
 
 In 2022 I was a part of a 6-member team creating Discordant, a rythm-based bullet hell game. The game was developed over the course of three months as a part of a game project course in Aalto University.

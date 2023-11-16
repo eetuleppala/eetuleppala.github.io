@@ -10,6 +10,6 @@ I have previously worked as an in-house designer and design consultant with comp
 
 If you would like to collaborate with me or hire me, please contact me at [eetuleppala@gmail.com](mailto:eetuleppala@gmail.com).
 
-<div class="blocklink"><a href=""> DOWNLOAD CV →</a></div>
+<div class="blocklink"><a href="/assets/files/CV.pdf" target="_black"> DOWNLOAD CV →</a></div>
 
 ![Alt text](../assets/img/headshot.png)
