@@ -11,7 +11,7 @@ Book of Ashes is a singleplayer tactical RPG / roguelike, where you and you part
 <a href="https://drive.google.com/file/d/1pNbVPoUSmdgoKceq_aCguCl8c_r7vAZ0/view?usp=drive_link" target="_blank">Download demo for Windows or Mac →</a></div>
 
 ## Contributions
-During the 9 months I've been developing this game as a solo-project I have at least:
+During the 9 months I've been developing this game as a solo-project I have among other things:
 
 - Formulated and maintained design vision to steer design and development decisions
 - Balanced gameplay elements in accordance with the wanted experience
@@ -35,7 +35,7 @@ During the 9 months I've been developing this game as a solo-project I have at l
 ![Player Flow](../assets/img/projects/BookOfAshes/PlayerFlow.png)
 <div class="small"> ↑ Usual player flows through the level. I wanted the levels to encourage the players to move around the space with their small unit of guerilla fighters, so each room has boosters to encourage moving into them and executing awesome turns.</div>
 
-[Img of tiletypes and effects]
+![Tile Types](../assets/img/projects/BookOfAshes/tileTypes.png)
 <div class="small"> ↑ Different tiletypes. Manouvering and altering the battlefield is a crucial aspect in the game. These also effect pathfinding for all agents to for example avoid hazards and difficult terrain unless absolutely necessary. I also added rules for enemies to not stand next to walls or on the edge of the map in order to give the player more opportunities to strike. </div>
 
 ![Enemy Tiers](../assets/img/projects/BookOfAshes/EnemyTiers.png)
