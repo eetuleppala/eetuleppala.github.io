@@ -13,7 +13,7 @@ Split is a puzzle-platformer for two players. (Or one player with especially goo
 <a href="https://lrdazrl.itch.io/split" target="_blank">Play on itch.io →</a></div>
 
 ## Contributions
-The game was created during a week-long game jam. The theme of the jam was "The Twist". Our interpretation of the topic was to twist the genre of split screen games in a way that you could travel through the split, to each others’ screens.
+The game was created during a week-long game jam with a team of four. The theme of the jam was "The Twist". Our interpretation of the topic was to twist the genre of split screen games in a way that you could travel through the split, to each others’ screens. My contributions included:
 
 - Core mechanic design (collab)
 - Puzzle design (collab)
