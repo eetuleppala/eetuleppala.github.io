@@ -26,8 +26,14 @@ During the 9 months I've been developing this game as a solo-project I have at l
 ![Heroes and Abilities](../assets/img/projects/BookOfAshes/HeroesAndAbilities.png)
 <div class="small"> ↑ Some of the heroes in the game. I wanted the heroes and their abilities to produce a feeling of surviving against overwhelming odds by using unorthodox methods. </div>
 
-[Imgs of levels in level editor, with tags, overlay with room sketch as well as indicate formations and booster/room flow]
-<div class="small"> ↑ Levels and spawnpoints. I wanted the levels to encourage the players to move around the space with their small unit of guerilla fighters, while the enemies were positioned in more traditional military formations (vanguard etc.). The levels are generally divided into rooms, at least conceptually. Each room has boosters to encourage moving into them and executing awesome turns.</div>
+![Military Units](../assets/img/projects/BookOfAshes/MilitaryUnits.png)
+<div class="small"> ↑ Military units and spawnpoints. The enemies are positioned in traditional military formations (vanguard etc.), while the player only has three units at their disposal. The spawnpoints are picked randomly from the available ones based on the needs of the enemy squad. This way a single level can host multiple types of battles. </div>
+
+![Rooms](../assets/img/projects/BookOfAshes/Rooms.png)
+<div class="small"> ↑ The levels are conceptually divided into rooms. This allowed me to design room by room in terms of what kinds of encounters they would have while at the same time keeping an eye on the whole.</div>
+
+![Player Flow](../assets/img/projects/BookOfAshes/PlayerFlow.png)
+<div class="small"> ↑ Usual player flows through the level. I wanted the levels to encourage the players to move around the space with their small unit of guerilla fighters, so each room has boosters to encourage moving into them and executing awesome turns.</div>
 
 [Img of tiletypes and effects]
 <div class="small"> ↑ Different tiletypes. Manouvering and altering the battlefield is a crucial aspect in the game. These also effect pathfinding for all agents to for example avoid hazards and difficult terrain unless absolutely necessary. I also added rules for enemies to not stand next to walls or on the edge of the map in order to give the player more opportunities to strike. </div>
