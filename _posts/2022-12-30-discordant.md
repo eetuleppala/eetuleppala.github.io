@@ -2,6 +2,9 @@
 layout: post
 title: "Discordant – Post Mortem"
 ---
+
+In 2022 I was a part of a 6-member team creating Discordant, a rythm-based bullet hell game. The game was developed over the course of three months as a part of a game project course in Aalto University.
+
 ## Art Direction
 
 As this was a school project, not everyone in our project had the same level of expeirence in game development. To enable consistency in style, I wanted to go in a more low poly, geometric direction with the shape language. In terms of colours, the themes of the story revolved around a trancendental experience, so bright colours were warranted. To highlight relevant UI information, they were exclusively using white in contrast to the rest of the game.
