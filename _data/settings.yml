@@ -10,7 +10,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Book of Ashes', description: 'Tactical RPG',  url: 'BookOfAshes'}
+- {name: 'Book of Ashes', description: 'Tactical RPG / Roguelike',  url: 'BookOfAshes'}
 - {name: 'Discordant',  description: 'Rhythm-based Bullet Hell', url: 'Discordant'}
 # - {name: 'Arcana',   url: 'Arcana'}
 # - {name: 'Playing with Systems', description: 'Graduate Thesis', url: 'Systems'}

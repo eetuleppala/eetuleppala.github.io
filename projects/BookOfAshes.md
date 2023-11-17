@@ -19,6 +19,7 @@ During the 9 months I've been developing this game as a solo-project I have amon
 - Developed a modular system and tooling for producing agents, abilities and conditions fast and reliably
 - Developed a level editor and modular tiletypes to produce emergent behaviour
 - Designed systems to present relevant information only when needed
+- Formalised an art style and produced all art assets
 - And much more.
 
 ## Design Highlights
