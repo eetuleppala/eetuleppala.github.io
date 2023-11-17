@@ -9,17 +9,15 @@ Discordant is a surreal rhythm-action game where you defeat enemies to the beat 
 <div class="small"> ↑ Discordant in action.</div>
 
 <div class="blocklink">
-<a href="https://drive.google.com/file/d/1pNbVPoUSmdgoKceq_aCguCl8c_r7vAZ0/view?usp=drive_link" target="_blank">Download demo for Windows →</a></div>
+<a href="https://drive.google.com/drive/folders/1fNKSKlJxMl_pZb7ux_ej9S-aHWbHjsqw" target="_blank">Download demo for Windows →</a></div>
 
 ## Contributions
-In 2022 I was a part of a 6-member team creating Discordant, a rythm-based bullet hell game. The game was developed over the course of three months as a part of a game project course in Aalto University. My responsibilities included among other things:
+In 2022 I was a part of a 6-member team creating Discordant, a rythm-based bullet hell game. The game was developed over the course of three months as a part of a game project course in Aalto University. Among other things I:
 
-- Story conceptualization and thematization of established core mechanics
-- Enemy type and encounter design
-- All level layout and hazard design from tutorials to regular and challenging levels
-- Playtesting and task design
-- Art direction to ensure cohesiveness (other team members produced the assets)
-- Game production
+- Developed a story and thematized core mechanics
+- Designed enemy types, encounters and level design
+- Did playtesting and task design
+- Was in charge of art direction and game production
 
 ## Design Highlights
 

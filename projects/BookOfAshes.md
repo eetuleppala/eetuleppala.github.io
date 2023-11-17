@@ -8,17 +8,15 @@ Book of Ashes is a singleplayer tactical RPG / roguelike, where you and you part
 <video src="/assets/video/BookOfAshes_trailer.mp4" autoplay loop muted playsinline></video>
 
 <div class="blocklink">
-<a href="https://drive.google.com/file/d/1pNbVPoUSmdgoKceq_aCguCl8c_r7vAZ0/view?usp=drive_link" target="_blank">Download demo for Windows or Mac →</a></div>
+<a href="https://drive.google.com/drive/folders/1OuV8T9D9gjhHUOHwY3BP9Brf7KXv9ttm?usp=drive_link" target="_blank">Download demo for Windows or Mac →</a></div>
 
 ## Contributions
 During the 9 months I've been developing this game as a solo-project I have among other things:
 
 - Formulated and maintained design vision to steer design and development decisions
-- Balanced gameplay elements in accordance with the wanted experience
-- Orchestrated playtesting sessions throughout development
-- Developed a modular system and tooling for producing agents, abilities and conditions fast and reliably
-- Developed a level editor and modular tiletypes to produce emergent behaviour
-- Designed systems to present relevant information only when needed
+- Balanced gameplay elements based on playtesting
+- Developed a modular system and tooling for producing content and mechanics fast and reliably
+- Designed UI systems to display complex info clearly
 - Formalised an art style and produced all art assets
 - And much more.
 
