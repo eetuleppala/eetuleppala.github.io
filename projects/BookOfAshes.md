@@ -44,4 +44,4 @@ During the 9 months I've been developing this game as a solo-project I have amon
 - [Design Pillars of Book of Ashes](/BOA-design-pillars)
 - [Content authoring in Book of Ashes](/BOA-tooling)
 - [Contextual UI in Book of Ashes](/BOA-UI)
-- [Early Concept work in Book of Ashes](/BOA-early-concepts)
+- [Early Exploration work in Book of Ashes](/BOA-early-exploration)
