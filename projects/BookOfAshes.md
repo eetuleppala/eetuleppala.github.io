@@ -41,7 +41,7 @@ During the 9 months I've been developing this game as a solo-project I have amon
 <div class="small"> ↑ Some of the enemies in the game. I wanted each enemy to provide a specific type of challenge. For this battle demo I wanted to highlight the theme of fire in the story and mirror it in the game mechanics. Each enemy group has a progression of difficulties in the enemy units. </div>
 
 ## Further reading
-- [Design Pillars of Book of Ashes](/BOA-design-pillars)
-- [Content authoring in Book of Ashes](/BOA-tooling)
-- [Contextual UI in Book of Ashes](/BOA-UI)
 - [Early Exploration work in Book of Ashes](/BOA-early-exploration)
+- [Design Pillars of Book of Ashes](/BOA-design-pillars)
+<!-- - [Content authoring in Book of Ashes](/BOA-tooling) -->
+<!-- - [Contextual UI in Book of Ashes](/BOA-UI) -->

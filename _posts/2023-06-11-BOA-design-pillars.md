@@ -11,6 +11,16 @@ Before designing or developing anything, I wanted to define what type of experie
 
 As I was still mulling over the topics I covered in my thesis - teaching players how to thrive in complex systems through games (You can read more on that [here](/thesis).) I wanted to see how a video game would respond to this kind of approach. Would I be able to achieve an enjoyable playing experience while also getting my points across to the players through the game?
 
+## Tone
+
+Additionally I defined the mood and type of gameplay these arguments would entail. Since the point was to overwhelm the player with information and let them use and train their intuition to better engage with the enemy I opted for the gameplay to also feature things like "Surviving together against overwhelming odds using unorthodox methods", and instead of going the XCOM route, I opted for more Dungeons and Dragons type of feel, where each individual can shine and take awesome turns while also acting as a coherent team.
+
+I also benchmarked some media products that came to mind when moodboarding for this game. Not all of them are games, because I wanted to nail down comparisons to any media product in the hopes that it would help to position the game in my mind and help me create novel mechanics and systems that would drive towards this type of mood, rather than try and mimic game features to drive towards the feeling.
+
+![Tones](../assets/img/posts/BookOfAshes/tones.png)
+
+## Design Pillars
+
 The chosen three arguments were later translated into two design pillars in terms of the battle feel and play experience: 
 1. **Dance with the ever-changing systems**
 
@@ -18,8 +28,6 @@ The chosen three arguments were later translated into two design pillars in term
 2. **A unified team of exceptional individuals can achieve victory**
 
     This pillar underscores the importance of teamwork and coordination for success, while also allowing individual characters to have moments of glory. The game mechanics should be designed to encourage players to utilize the unique strengths of each unit, recognizing and capitalizing on opportunities for exceptional plays. However, an over-reliance on individual action should have its risks, reinforcing the need for teamwork. The loss of any team member should significantly impact the team's effectiveness, highlighting the importance of mutual reliance and the consequences of each character's actions. The design should facilitate moments where individual heroics can turn the tide of battle, but always within the context of a coordinated team effort.
-
-Additionally I defined the mood and type of gameplay these arguments would entail. Since the point was to overwhelm the player with information and let them use and train their intuition to better engage with the enemy I opted for the gameplay to also feature things like "Surviving together against overwhelming odds using unorthodox methods", and instead of going the XCOM route, I opted for more Dungeons and Dragons type of feel, where each individual can shine and take awesome turns while also acting as a coherent team.
 
 ## Verbs
 At some point of the development I noticed I had difficult time coming up with consistent synergistic abilities. I had spent so much time actually building the system where you can build these abilities etc. that I had forgot what the game was about. The system allowed all sorts of things, but there needed to be some constraints and consistancies across the abilities so they create a unified experience. So I took a long look at the arguments and the feel I wanted to achieve with the game and played the game with existing mechanics as if it was the intended experience. The disparity then informed me what needed fixing. I then created a list of verbs that would drive the sort of experience I was looking for:
