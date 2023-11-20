@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Portfolio
+title: Home
 ---

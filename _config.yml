@@ -9,5 +9,5 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "Eetu Leppälä"
-description: "Game and UX/UI Designer"
+description: "Game Projects from Strategic Board Games to Tactical RPGs"
 author:      "Eetu Leppälä"
