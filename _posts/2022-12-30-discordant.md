@@ -5,14 +5,6 @@ title: "Discordant Post Mortem"
 
 In 2022 I was a part of a 6-member team creating Discordant, a rythm-based bullet hell game. The game was developed over the course of three months as a part of a game project course in Aalto University.
 
-## Art Direction
-
-As this was a school project, not everyone in our project had the same level of expeirence in game development. To enable consistency in style, I wanted to go in a more low poly, geometric direction with the shape language. In terms of colours, the themes of the story revolved around a trancendental experience, so bright colours were warranted. To highlight relevant UI information, they were exclusively using white in contrast to the rest of the game.
-
-![Art direction](/assets/img/projects/Discordant/artDirection.png)
-
-<div class="small"> ↑ Concept art from later in development. At this point in the project we had explored a lot of different art styles, but it turned out we were unable to make them work consistently across artists in the team. This image acted as a master image, based on which everything else needed to be calibrated on. This image also created the basis for the more diagetic UI elements, such as the enemy attack visuals and color coordination between various types of items. </div>
-
 ## User Interface
 
 ### Indicating progression
@@ -45,3 +37,12 @@ As the gameplay was highly tied into the beat of the music, we wanted to make th
 ### Pop-up tutorials
 
 ![Tutorial popup](../assets/img/projects/Discordant/UI-tutorial-popup.png)
+
+
+## Art Direction
+
+As this was a school project, not everyone in our project had the same level of expeirence in game development. To enable consistency in style, we decided to go in a more low poly, geometric direction with the shape language. In terms of colours, the themes of the story revolved around a trancendental experience, so bright colours suited that need. To highlight relevant UI information, they were exclusively using white in contrast to the rest of the game.
+
+![Art direction](/assets/img/projects/Discordant/artDirection.png)
+
+<div class="small"> ↑ Concept art from later in development. At this point in the project we had explored a lot of different art styles, but it turned out we were unable to make them work consistently across artists in the team. This image acted as a master image, based on which everything else needed to be calibrated on. This image also created the basis for the more diagetic UI elements, such as the enemy attack visuals and color coordination between various types of items. </div>
