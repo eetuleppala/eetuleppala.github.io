@@ -8,6 +8,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Eetu Leppälä"
+title:		   "Eetu Netti"
 description: "Game Projects from Strategic Board Games to Tactical RPGs"
-author:      "Eetu Leppälä"
+author:      "Eetu Netti"
